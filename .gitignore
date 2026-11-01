@@ -26,3 +26,4 @@ Thumbs.db
 # Frontend backups
 frontend/src_backup*/
 frontend/src/App.backup.jsx
+/backend.zip
