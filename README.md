@@ -156,3 +156,15 @@ This project does not implement Microsoft Entra ID or Azure integration. Keycloa
 ## Project status
 
 Developed as an academic project by Muhammad Hamaet Uddin. This README documents the supplied backend and database structure; fresh MySQL import and full frontend operation have not been executed in this documentation environment. Add screenshots using sample accounts and a short demo after verifying the local setup.
+
+
+## Screenshots
+
+### Login
+![SITMACS login page](docs/screenshots/login.png)
+
+### Administrator Dashboard
+![SITMACS administrator dashboard](docs/screenshots/admin-dashboard.png)
+
+### Device Management
+![SITMACS device management](docs/screenshots/device-management.png)
